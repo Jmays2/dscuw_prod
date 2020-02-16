@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/production/static/css/main.1d53c003.chunk.css",
-    "main.js": "/production/static/js/main.013fee19.chunk.js",
-    "main.js.map": "/production/static/js/main.013fee19.chunk.js.map",
-    "runtime-main.js": "/production/static/js/runtime-main.beb33fcb.js",
-    "runtime-main.js.map": "/production/static/js/runtime-main.beb33fcb.js.map",
-    "static/js/2.65a6b92f.chunk.js": "/production/static/js/2.65a6b92f.chunk.js",
-    "static/js/2.65a6b92f.chunk.js.map": "/production/static/js/2.65a6b92f.chunk.js.map",
-    "index.html": "/production/index.html",
-    "precache-manifest.ebe03fc030c2aba78f18fa7861345b0a.js": "/production/precache-manifest.ebe03fc030c2aba78f18fa7861345b0a.js",
-    "service-worker.js": "/production/service-worker.js",
-    "static/css/main.1d53c003.chunk.css.map": "/production/static/css/main.1d53c003.chunk.css.map",
-    "static/js/2.65a6b92f.chunk.js.LICENSE": "/production/static/js/2.65a6b92f.chunk.js.LICENSE",
-    "static/media/DSCUWM_Logo.png": "/production/static/media/DSCUWM_Logo.003e486b.png",
-    "static/media/study_jams.jpg": "/production/static/media/study_jams.12f04653.jpg",
-    "static/media/tech_talks.png": "/production/static/media/tech_talks.bbb5c4eb.png"
+    "main.css": "/prod/static/css/main.1d53c003.chunk.css",
+    "main.js": "/prod/static/js/main.68983254.chunk.js",
+    "main.js.map": "/prod/static/js/main.68983254.chunk.js.map",
+    "runtime-main.js": "/prod/static/js/runtime-main.f8ee7fe0.js",
+    "runtime-main.js.map": "/prod/static/js/runtime-main.f8ee7fe0.js.map",
+    "static/js/2.65a6b92f.chunk.js": "/prod/static/js/2.65a6b92f.chunk.js",
+    "static/js/2.65a6b92f.chunk.js.map": "/prod/static/js/2.65a6b92f.chunk.js.map",
+    "index.html": "/prod/index.html",
+    "precache-manifest.6ccf4a46b96c0db1f07ab1682daecfe2.js": "/prod/precache-manifest.6ccf4a46b96c0db1f07ab1682daecfe2.js",
+    "service-worker.js": "/prod/service-worker.js",
+    "static/css/main.1d53c003.chunk.css.map": "/prod/static/css/main.1d53c003.chunk.css.map",
+    "static/js/2.65a6b92f.chunk.js.LICENSE": "/prod/static/js/2.65a6b92f.chunk.js.LICENSE",
+    "static/media/DSCUWM_Logo.png": "/prod/static/media/DSCUWM_Logo.003e486b.png",
+    "static/media/study_jams.jpg": "/prod/static/media/study_jams.12f04653.jpg",
+    "static/media/tech_talks.png": "/prod/static/media/tech_talks.bbb5c4eb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.beb33fcb.js",
+    "static/js/runtime-main.f8ee7fe0.js",
     "static/js/2.65a6b92f.chunk.js",
     "static/css/main.1d53c003.chunk.css",
-    "static/js/main.013fee19.chunk.js"
+    "static/js/main.68983254.chunk.js"
   ]
 }
