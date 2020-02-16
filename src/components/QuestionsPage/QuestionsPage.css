@@ -1,0 +1,101 @@
+.green-container {
+  position: absolute;
+  height: 38rem;
+  width: 300rem;
+  background-color: rgb(15, 155, 87);
+  transform: rotate(8deg);
+  z-index: -3;
+  left: -15%;
+  border: none;
+  overflow: hidden;
+  margin-top: 196rem;
+}
+
+.questions-content {
+  height: 60rem;
+  width: 25.5rem;
+  float: left;
+  transform: rotate(-8deg);
+  margin-left: 4rem;
+}
+
+.form,
+.question-text {
+  position: absolute;
+}
+
+.question-text {
+  margin-top: 14rem;
+  margin-left: 8rem;
+}
+
+.form {
+  margin-left: 60rem;
+  margin-top: 10rem;
+}
+
+.questions-content h1,
+h2 {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.questions-content h1 {
+  font-size: 78px;
+}
+
+.questions-content h2 {
+  font-weight: 300;
+}
+
+.form-input,
+.form-btn,
+.form-input-message {
+  font-family: 'Roboto', sans-serif;
+  border: none;
+  display: block;
+  outline: none;
+}
+
+.form-input,
+.form-input-message {
+  padding-left: 1rem;
+  margin: 1.5rem 0rem;
+  width: 33rem;
+  font-size: medium;
+  resize: none;
+}
+
+.form-input::placeholder,
+.form-input-message::placeholder {
+  color: rgba(128, 128, 128, 0.445);
+}
+.form-input {
+  height: 2rem;
+  border-radius: 10rem 10rem;
+  padding-top: 0.75em;
+}
+
+.form-input-message {
+  height: 7rem;
+  border-radius: 1rem 1rem;
+  vertical-align: top;
+  resize: none;
+}
+
+.form-btn {
+  margin: 0.8rem 0rem;
+  height: 2.6rem;
+  width: 34rem;
+  font-size: larger;
+  border-radius: 10rem 10rem;
+}
+
+.form-btn:hover {
+  background-color: rgba(82, 80, 80, 0.712);
+}
+
+.form {
+  margin-top: 15rem;
+}

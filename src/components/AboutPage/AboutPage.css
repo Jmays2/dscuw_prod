@@ -1,0 +1,52 @@
+.blue-container {
+  position: absolute;
+  height: 38rem;
+  width: 300rem;
+  margin: 0;
+  background-color: rgb(66, 133, 244);
+  overflow: hidden;
+  transform: rotate(-9deg) scale(1.1);
+  z-index: -1;
+  margin-top: 42rem;
+}
+
+.content {
+  margin: 10rem 189rem 0 4rem;
+  transform: rotate(9deg);
+}
+
+.content p,
+h1 {
+  color: white;
+  text-align: left;
+  padding: 0 20rem;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+}
+
+.content p {
+  font-size: 29px;
+}
+
+.content h1 {
+  font-size: 58px;
+}
+
+.learn-more {
+  background-color: rgb(234, 67, 53);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 23.5px;
+  position: absolute;
+  margin-left: 71rem;
+  text-align: center;
+  padding: 0.6rem 2.5rem;
+  border: none;
+  border-radius: 10rem 10rem;
+  outline: none;
+}
+
+.learn-more:hover {
+  background-color: rgb(73, 15, 10);
+  color: grey;
+}

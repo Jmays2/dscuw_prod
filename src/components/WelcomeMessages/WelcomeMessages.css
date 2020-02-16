@@ -1,0 +1,91 @@
+.welcome-container {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.welcome-container p {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  padding: 0;
+  margin-top: 5%;
+  color: rgba(120, 120, 120, 45);
+  z-index: -1;
+}
+
+#welcome1 {
+  font-size: 132px;
+  margin: 18.4% 31%;
+  font-weight: 800;
+  color: rgb(70, 70, 70) !important;
+}
+
+#welcome2 {
+  font-size: 49px;
+  margin: 28.4% 21%;
+}
+
+#welcome3 {
+  font-size: 59px;
+  margin: 34% 32%;
+}
+
+#welcome4 {
+  font-size: 50px;
+  margin: 41% 36%;
+}
+
+#welcome5 {
+  font-size: 45px;
+  margin: 40% 21%;
+}
+
+#welcome6 {
+  font-size: 67px;
+  margin: 25% 1%;
+}
+
+#welcome7 {
+  font-size: 67px;
+  margin: 11% 10%;
+}
+
+#welcome8 {
+  font-size: 36px;
+  margin: 15.7% 12%;
+}
+
+#welcome9 {
+  font-size: 25px;
+  margin: 15.7% 42%;
+}
+
+#welcome10 {
+  font-size: 60px;
+  margin: 7.7% 42%;
+}
+
+#welcome11 {
+  font-size: 26px;
+  margin: 9% 80%;
+}
+
+#welcome12 {
+  font-size: 70px;
+  margin: 34% 73%;
+}
+
+#welcome13 {
+  font-size: 40px;
+  margin: 18% 70%;
+}
+
+#welcome14 {
+  font-size: 29px;
+  margin: 28% 70%;
+}
+
+#welcome15 {
+  font-size: 50px;
+  margin: 24% 80%;
+}

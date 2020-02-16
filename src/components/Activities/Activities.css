@@ -1,0 +1,88 @@
+.yellow-container {
+  position: absolute;
+  height: 38rem;
+  width: 300rem;
+  margin-top: 0;
+  background-color: rgb(251, 188, 4);
+  transform: rotate(8deg);
+  z-index: -1;
+  left: -15%;
+  border: none;
+  overflow: hidden;
+  margin-top: 110rem;
+}
+
+.activities-content,
+.line1,
+.line2 {
+  border-left: 0.1rem solid rgba(56, 56, 56, 0.199);
+  height: 100rem;
+  position: absolute;
+  transform: rotate(-4deg);
+}
+
+.line1 {
+  margin-left: 79rem;
+  padding: 0;
+}
+
+.line2 {
+  margin-left: 46rem;
+  padding: 0;
+}
+
+.study_jam-content,
+.tech_talk-content,
+.hackathon-content {
+  position: absolute;
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+  transform: rotate(-4deg);
+}
+
+.hackathon-content {
+  top: 9rem;
+  left: 20rem;
+}
+
+.study_jam-content {
+  top: 11rem;
+  left: 53rem;
+}
+
+.tech_talk-content {
+  top: 13rem;
+  left: 87rem;
+}
+
+.hackathon-txt,
+.tech_talk-txt,
+.study_jam-txt {
+  position: absolute;
+  color: white;
+  padding: 0rem 9rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  transform: rotate(-4deg);
+}
+
+.hackathon-txt {
+  top: 26rem;
+  left: 11.3rem;
+}
+
+.tech_talk-txt {
+  top: 29rem;
+  left: 45.1rem;
+}
+
+.study_jam-txt {
+  top: 31rem;
+  left: 78rem;
+}
+
+@media screen and (max-width: 900px) {
+  .yellow-container {
+  }
+}

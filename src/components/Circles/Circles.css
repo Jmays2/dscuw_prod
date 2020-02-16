@@ -1,0 +1,57 @@
+.circles {
+  border: none;
+  margin: 0;
+}
+.circles div {
+  z-index: -1;
+  position: absolute;
+  border-radius: 50%;
+  padding: 0;
+}
+.circle1 {
+  height: 15rem;
+  width: 7rem;
+  border-radius: 0 !important;
+  border-bottom-right-radius: 692px !important;
+  border-top-right-radius: 692px !important;
+  margin: 5.5% 0 0 0;
+}
+.circle2 {
+  height: 13rem;
+  width: 13rem;
+  margin: 30% 0 0 52.8%;
+}
+
+.circle3 {
+  height: 14rem;
+  width: 14rem;
+  margin: 35% 0 0 4%;
+}
+/*
+right yellow circle 
+*/
+.circle4 {
+  height: 10rem;
+  width: 10rem;
+  margin: 5.5% 0 0 68%;
+}
+.circle5 {
+  height: 8rem;
+  width: 8rem;
+  margin: 19% 0 0 17%;
+}
+.circle6 {
+  height: 20rem;
+  width: 20rem;
+  margin: 30% 0 0 81.8%;
+}
+.circle7 {
+  height: 12rem;
+  width: 12rem;
+  margin: 8% 0 0 89%;
+}
+.circle8 {
+  height: 10rem;
+  width: 10rem;
+  margin: 0% 0 0 25%;
+}
